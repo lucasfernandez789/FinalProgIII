@@ -1,0 +1,182 @@
+[
+    {
+        "id": "preparado-01",
+        "titulo": "Bialcohol",
+        "imagen": "./img/Preparado/01.jpeg",
+        "categoria": {
+            "nombre": "Preparado",
+            "id": "preparado"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "preparado-02",
+        "titulo": "Repujador",
+        "imagen": "./img/Preparado/02.jpeg",
+        "categoria": {
+            "nombre": "Preparado",
+            "id": "preparado"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "preparado-03",
+        "titulo": "Corta cuticulas",
+        "imagen": "./img/Preparado/03.jpeg",
+        "categoria": {
+            "nombre": "Preparado",
+            "id": "preparado"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "preparado-04",
+        "titulo": "Lima sponje",
+        "imagen": "./img/Preparado/04.jpeg",
+        "categoria": {
+            "nombre": "Preparado",
+            "id": "preparado"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "preparado-05",
+        "titulo": "Lima estructural",
+        "imagen": "./img/Preparado/05.jpeg",
+        "categoria": {
+            "nombre": "Preparado",
+            "id": "preparado"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "preparado-06",
+        "titulo": "Guante latex 100uni.",
+        "imagen": "./img/Preparado/06.jpeg",
+        "categoria": {
+            "nombre": "Preparado",
+            "id": "preparado"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "preparado-07",
+        "titulo": "Adherente",
+        "imagen": "./img/Preparado/07.jpeg",
+        "categoria": {
+            "nombre": "Preparado",
+            "id": "preparado"
+        },
+        "precio": 500
+    },
+    {
+        "id": "preparado-08",
+        "titulo": "Primer",
+        "imagen": "./img/Preparado/08.jpeg",
+        "categoria": {
+            "nombre": "Preparado",
+            "id": "preparado"
+        },
+        "precio": 500
+    },
+    {
+        "id": "esmaltado-01",
+        "titulo": "BaseCoat",
+        "imagen": "./img/Esmaltado/01.jpeg",
+        "categoria": {
+            "nombre": "Esmaltado",
+            "id": "esmaltado"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "esmaltado-02",
+        "titulo": "Gel Colour Blue",
+        "imagen": "./img/Esmaltado/02.jpeg",
+        "categoria": {
+            "nombre": "Esmaltado",
+            "id": "esmaltado"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "esmaltado-03",
+        "titulo": "Gel Colour LightPink",
+        "imagen": "./img/Esmaltado/03.jpeg",
+        "categoria": {
+            "nombre": "Esmaltado",
+            "id": "esmaltado"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "esmaltado-04",
+        "titulo": "Gel Colour White",
+        "imagen": "./img/Esmaltado/04.jpeg",
+        "categoria": {
+            "nombre": "Esmaltado",
+            "id": "esmaltado"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "esmaltado-05",
+        "titulo": "Top Coat",
+        "imagen": "./img/Esmaltado/05.jpeg",
+        "categoria": {
+            "nombre": "Esmaltado",
+            "id": "esmaltado"
+        },
+        "precio": 6000
+    },
+    {
+        "id": "spa-01",
+        "titulo": "Bowl ",
+        "imagen": "./img/Spa/01.jpeg",
+        "categoria": {
+            "nombre": "Spa",
+            "id": "spa"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "spa-02",
+        "titulo": "Crema exfoliante",
+        "imagen": "./img/Spa/02.jpeg",
+        "categoria": {
+            "nombre": "Spa",
+            "id": "spa"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "spa-03",
+        "titulo": "Guantes Exfoliacion",
+        "imagen": "./img/Spa/03.jpeg",
+        "categoria": {
+            "nombre": "Spa",
+            "id": "spa"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "spa-04",
+        "titulo": "Crema humectante",
+        "imagen": "./img/Spa/04.jpeg",
+        "categoria": {
+            "nombre": "Spa",
+            "id": "spa"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "spa-05",
+        "titulo": "Aceite cuticulas",
+        "imagen": "./img/Spa/05.jpeg",
+        "categoria": {
+            "nombre": "Spa",
+            "id": "spa"
+        },
+        "precio": 2000
+    }
+]
